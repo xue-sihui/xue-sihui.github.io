@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 permalink: /projects/
 description: Selected projects and portfolio items.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

@@ -26,7 +26,6 @@ My research interests and current work will be added here.
 ## Selected Links
 
 - [Publications](/publications/)
-- [Portfolio](/projects/)
 - [Teaching](/teaching/)
 - [CV](/cv/)
 
